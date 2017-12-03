@@ -3,9 +3,6 @@
 <head>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="jquery.validate.js"></script> <!-- Form validation included through plugin available at https://jqueryvalidation.org/ -->
-<style>
-td label {text-align:right;}
-</style>
 </head>
 <body>
 <form class="cmxform" id="regiform" action="register.php" method="post">
